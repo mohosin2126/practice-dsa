@@ -65,6 +65,3 @@ int main() {
     return 0;
 }
 ```
-## Time Complexity Analysis:
-- The function exampleFunction runs a loop from 0 to n, and inside the loop, we perform a constant time operation.
-Thus, the time complexity is O(n).
